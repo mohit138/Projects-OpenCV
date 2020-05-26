@@ -21,7 +21,8 @@ Warped=np.zeros((500,373))
 
 if (cap.isOpened()==False):
     print("Error opening video file")
-    
+
+
 while(cap.isOpened()):
     
     
